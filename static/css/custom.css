@@ -1,0 +1,8 @@
+/* your styles go here */
+.job-form-section--image {
+    background-image: url('/static/img/php.jpg'); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh; 
+}
